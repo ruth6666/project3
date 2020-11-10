@@ -1,0 +1,28 @@
+h1{
+color:palevioletred;
+border:solid aquamarine ;
+margin-top: 70px;
+padding-top: 40px;
+padding-bottom: 40px;
+}
+.main1{
+    background-color: powderblue;
+    display:flex;
+    justify-content: space-around;
+}
+.sub1 p{
+    border:solid darkblue;
+    display:flex;
+    justify-content: space-between;
+    padding-left: 50px;
+}
+.sub1:hover{
+    opacity: 0.6;
+    transform: scale(1.4);
+}
+.main2{
+    background-color: powderblue;
+    display: flex;
+    justify-content: space-around;
+    
+}
